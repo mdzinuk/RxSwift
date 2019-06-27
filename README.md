@@ -20,7 +20,7 @@ We will discuss about
 * Schedulers
 
 ### Installing RxSwift
-To get started, download [RxSwift-Tuts](https://github.com/mdzinuk/RxSwift-Part-01/tree/master/RxSwift-Tuts) project. Once the project is downloaded then navigate to the prject directory from Terminal.
+To get started, download [RxSwift-Tuts](https://github.com/mdzinuk/RxSwift/tree/master/RxSwift-Tuts) project. Once the project is downloaded then navigate to the prject directory from Terminal.
 ```
 cd /Users/zinuk/Downloads/RxSwift/RxSwift-Tuts
 ```
@@ -29,7 +29,7 @@ Install pods from Terminal:
 $ pod install
 ```
 
-### Getting Started with [RxSwift-Tuts](https://github.com/mdzinuk/RxSwift-Part-01/tree/master/RxSwift-Tuts)
+### Getting Started with [RxSwift-Tuts](https://github.com/mdzinuk/RxSwift/tree/master/RxSwift-Tuts)
 Open the **RxSwift-Tuts.xcworkspace**  project in Xcode to build, build the project by selecting **RxSwift-Tut** target if it is not selected.
 
 You might noticed <em>**DisposeBagAndSchedulers**</em>, <em>**Operators**</em>, <em>**Subjects**</em> and <em>**Observable**</em> playground files are there along with <em>**Pods**</em>. So, just ignore them for now and consider them as normal plaground files.
@@ -556,7 +556,7 @@ Relay02 = value02
 ```
 
 
-Here is the [Final project](https://github.com/mdzinuk/RxSwift-Part-01/tree/master/RxSwift-Tuts-Final) has been done for clear understanding. 
+Here is the [Final project](https://github.com/mdzinuk/RxSwift/tree/master/RxSwift-Tuts-Final) has been done for clear understanding. 
 
 Still confusing? 
 
